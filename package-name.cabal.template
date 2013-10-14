@@ -9,7 +9,7 @@ License-File:           LICENSE
 Cabal-Version:          >= 1.10
 Build-Type:             Simple
 
-Executable
+Executable $packageName
   Main-Is:              Main.hs
   Default-Language:     Haskell2010
   GHC-Options:          -Wall
