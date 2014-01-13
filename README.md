@@ -17,3 +17,5 @@ $ tree
 
 0 directories, 5 files
 ```
+
+Copyright 2013-2014 Fujimura Daisuke, under the MIT license.
